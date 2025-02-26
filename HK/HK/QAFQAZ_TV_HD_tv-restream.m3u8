@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://api1.canlitvplayer.com/str.yodacdn.net/qafkaz/mono.m3u8?token=b669133bf18eefd4cc4ffc3ccb8b459a52a4a82b-9a84a3399b519bcd5040c803fb0761c7-1739316639000000-1739305839000
+http://149.255.154.194/qafkaz/tracks-v1a1/mono.ts.m3u8?token=5108ffdbe6034b17377502c6c7cc491158c8d3b6-12ff8b380b4150b2e1de54ec830de59f-1739185078-1739174278
