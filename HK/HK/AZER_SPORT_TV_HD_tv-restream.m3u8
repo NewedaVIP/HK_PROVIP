@@ -1,7 +1,6 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.0,
+#EXT-X-STREAM-INF:BANDWIDTH=2096000
 https://s0.b4c8d3e9f1a2b7c5d68.cfd/yayinzirve.m3u8|Referer=https://trgoals1191.xyz/
-#EXT-X-ENDLIST
+
