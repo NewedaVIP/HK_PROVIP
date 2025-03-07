@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://cors.tundracast.com:2000/http://51.210.110.78:80/11455/tracks-v1a1/mono.m3u8?token=C79B218BADD6
 http://149.255.152.199/dunya.m3u8?bandwidth=796&e=1741457452&playlistlength=5&shift=0&sid=coder_53&token=aee21ce604466f159c43f675c967db91&user=37076
 https://tgn.bozztv.com/dvrfl05/gin-dunya/tracks-v1a1/mono.m3u8
