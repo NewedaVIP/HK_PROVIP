@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
-http://51.77.58.55/10256/tracks-v1a1/mono.m3u8?token=09E2993CB98A
 https://ip38.avrupatelekom.com:3442/hybrid/play.m3u8
+
 
