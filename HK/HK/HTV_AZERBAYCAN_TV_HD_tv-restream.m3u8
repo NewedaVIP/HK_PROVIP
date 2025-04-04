@@ -2,6 +2,4 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://live.yayingold.com.tr/ozelyayimturkhd/tracks-v1a1/mono.m3u8
-http://51.77.58.55/10398/tracks-v1a1/mono.m3u8?token=68A27598A8F4
-https://ip38.avrupatelekom.com:3323/hybrid/play.m3u8
+http://51.38.80.122/10609/tracks-v1a1/mono.m3u8?token=35A3350FC262
