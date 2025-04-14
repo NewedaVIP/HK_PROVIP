@@ -2,6 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://palatv34.ozelip.com:22372/almanyatv/almanyatv/chunklist.m3u8
+https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
 http://164.132.23.92:22372/suduragitv/suduragitv/chunklist.m3u8
 
