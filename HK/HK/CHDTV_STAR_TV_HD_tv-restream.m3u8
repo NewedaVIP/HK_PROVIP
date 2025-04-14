@@ -2,5 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 http://51.77.58.55/10400/tracks-v1a1/mono.m3u8?token=DC5A4F2014D6
-https://live.yayingold.com.tr/chdstarlive/tracks-v1a1/mono.m3u8
+
