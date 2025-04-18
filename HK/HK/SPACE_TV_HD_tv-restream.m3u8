@@ -1,6 +1,8 @@
 #EXTM3U
-#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=4620000,BANDWIDTH=5780000,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.4d402a,mp4a.40.2",CLOSED-CAPTIONS=NONE
-http://51.210.110.78/11458/tracks-v1/mono.m3u8?token=C79B218BADD6
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://51.210.110.78/11458/tracks-v1a1/mono.m3u8?token=256F6CB7F364
 https://tv.mobyservice.ru/Space/tracks-v1a1/mono.m3u8
 https://trn03.tulix.tv/gt-spacetv/tracks-v1a1/mono.m3u8
 
