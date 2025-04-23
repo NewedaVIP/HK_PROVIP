@@ -2,4 +2,5 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://178.49.236.206:4022/udp/239.1.1.87:1234
 https://132544.edgevideo.ru/streams/132544_806129/132544720/index.m3u8
