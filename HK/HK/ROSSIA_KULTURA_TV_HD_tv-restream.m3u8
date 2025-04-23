@@ -2,4 +2,5 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://195.49.206.244:90/Kultura/mono.m3u8?token=video
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_1001_319a299f/chunklist.m3u8
