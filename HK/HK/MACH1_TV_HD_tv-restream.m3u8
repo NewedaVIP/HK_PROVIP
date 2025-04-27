@@ -3,5 +3,5 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.0,
-http://tv.ttk.mx:9002/
+http://92.53.64.197:5050/match_tv/tracks-v1a1/mono.m3u8?token=m3VIth-Rou_bM1
 #EXT-X-ENDLIST
