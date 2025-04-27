@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
-http://85.132.78.122:8050/hls/stream/tracks-v1a1/mono.m3u8
-http://trn03.tulix.tv/gt-kepeztv-azer/tracks-v1a1/mono.m3u8
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0,
+http://194.42.205.99:8070/test_acct/ohbo1veifa4AhD/58976
+#EXT-X-ENDLIST
