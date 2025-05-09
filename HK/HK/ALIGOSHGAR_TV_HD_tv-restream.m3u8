@@ -2,5 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://185.11.145.188:8080/live/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82781.mono.m3u8
 https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
 https://live.yayingold.com.tr/spectrenetflix/tracks-v1a1/mono.m3u8
