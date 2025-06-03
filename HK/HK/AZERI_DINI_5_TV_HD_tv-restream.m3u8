@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://driptvs.com:8080/live/King200conxx/355sgdhh/721130.m3u8
 http://161.123.220.33:8080/live/live:.cid.d793630db0cd57d6/7yGGmNox9Z/10599.m3u8?token=MzlQUmFMNWlzaE1NWDU0
 https://cdn-azd2055.telewebion.com/ek/sahand/live/576p/index.m3u8
 https://hls.nl1.livekadeh.com/hls2/vilayet_high.m3u8
