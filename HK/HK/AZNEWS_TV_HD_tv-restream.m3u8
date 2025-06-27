@@ -2,5 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://livetv-fa.tubi.video/abc-news/index_1.m3u8
 http://cors.tundracast.com:2000/http://51.210.110.78/11939/tracks-v1a1/mono.m3u8?token=A507B028C418
 http://cdn.target-video.com/livestream/eu/83ac8fe07ddd10cf/out/v1/b9c4c59c1c4c4b1697bf9ea8d81e1f5e/30355_1872539_index_3.m3u8
