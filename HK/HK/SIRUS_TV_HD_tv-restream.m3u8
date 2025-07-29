@@ -1,10 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
-http://195.9.195.3:8080/hls/215207.m3u8
-http://116.202.117.244/gzcspor/gzcspor/chunklist.m3u8
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8
-http://85.234.100.186/10442/tracks-v1a1/mono.m3u8?token=35A3350FC262
-http://116.202.117.244/trspor/trspor/chunklist.m3u8
-http://195.9.195.3:8080/hls/211270.m3u8
-https://gclnk.com/KxknsWt8
+#EXT-X-VERSION:5
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-START:TIME-OFFSET=0,PRECISE=YES
+#EXT-X-STREAM-INF:BANDWIDTH=7000000,AVERAGE-BANDWIDTH=5000000,RESOLUTION=1920x1080,FRAME-RATE=30.000,CODECS="avc1.640028,mp4a.40.2",AUDIO="audio"
+https://gclnk.com/07PAFvm1
