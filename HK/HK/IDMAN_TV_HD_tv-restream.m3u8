@@ -1,10 +1,5 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2096000
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2096000
 https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
 http://149.255.154.198/idman/tracks-v1a1/mono.m3u8
-
-
-
-
