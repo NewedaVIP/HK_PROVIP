@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://ott.teleport.az/server117/travel_channel/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
 http://ott.teleport.az/server117/travel_channel/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 http://cors.tundracast.com:2000/http://141.94.251.52/10780/tracks-v1a1/mono.m3u8?token=DC5A4F2014D6
