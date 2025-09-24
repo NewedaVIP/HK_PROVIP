@@ -2,7 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://v2.catcast.tv/content/37925/index.m3u8
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8
 https://fl1003.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
 https://tv1.arectv30.sbs/live/sinemakomedi.m3u8
 http://146.59.93.251/10226/tracks-v1a1/mono.m3u8?token=A0FD2D6863A4
