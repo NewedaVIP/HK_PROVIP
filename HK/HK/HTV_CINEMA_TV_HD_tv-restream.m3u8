@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
-https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/megatvsinema/chunks.m3u8
 https://fl1003.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
 https://stream.ushba.tv/akamaiushba/ushba64/tracks-v1a1/mono.m3u8
 https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
