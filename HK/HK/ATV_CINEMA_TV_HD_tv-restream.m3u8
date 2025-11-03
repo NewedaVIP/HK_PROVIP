@@ -2,5 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/ecanlitvizle-org/atvaz.m3u8
 http://88.99.64.228/ATV/SINEMA/tracks-v1a1/mono.m3u8
 http://51.210.110.78/11937/tracks-v1a1/mono.m3u8?token=CA665548B282
