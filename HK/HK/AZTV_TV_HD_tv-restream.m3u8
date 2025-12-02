@@ -1,6 +1,13 @@
-#EXTM3U
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://str.yodacdn.net/azertv/tracks-v1a1/mono.m3u8
-https://str2.yodacdn.net/aztv_300_to_small/tracks-v1a1/mono.m3u8
+#!/bin/bash
+
+URL="http://mfe02.cliptv.az/dash/Dh_vtza_re.ism/playlist.mpd"
+OUT="hls_out.m3u8"
+
+ffmpeg -i "$URL" \
+  -map 0:v:0 -map 0:a:0 \
+  -c:v copy -c:a copy \
+  -f hls \
+  -hls_time 6 \
+  -hls_list_size 10 \
+  -hls_flags delete_segments \
+  "$OUT"
