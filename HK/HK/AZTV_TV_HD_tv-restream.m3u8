@@ -1,13 +1,4 @@
-#!/bin/bash
-
-URL="http://mfe02.cliptv.az/dash/Dh_vtza_re.ism/playlist.mpd"
-OUT="hls_out.m3u8"
-
-ffmpeg -i "$URL" \
-  -map 0:v:0 -map 0:a:0 \
-  -c:v copy -c:a copy \
-  -f hls \
-  -hls_time 6 \
-  -hls_list_size 10 \
-  -hls_flags delete_segments \
-  "$OUT"
+#EXTM3U
+#EXTINF:-1 tvg-name="ARB" tvg-logo=""
+group-title="AZ TV", ARB TV
+https://raw.githubusercontent.com/megasmartgence90/MYVIDEO-STREAMS/refs/heads/main/myvideo-az/arb.m3u8
