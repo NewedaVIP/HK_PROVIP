@@ -1,8 +1,0 @@
-#EXTM3U
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://cdn-arimusic.yayin.com.tr/arimusic/arimusic/chunklist.m3u8
-https://cdn-4musicrussia.yayin.com.tr/4musicrussia/4musicrussia/chunklist.m3u8
-https://ip38.avrupatelekom.com:3995/stream/play.m3u8
-http://195.9.195.3:8080/hls/201891.m3u8
