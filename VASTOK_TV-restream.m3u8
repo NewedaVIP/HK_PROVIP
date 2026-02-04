@@ -1,8 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://a8.radyotelekom.com.tr:3738/stream/play.m3u8
-https://fl1003.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
-https://cdn4.yayin.com.tr/ismayillitv/tracks-v1a1/mono.m3u8
-http://fl1003.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
-https://ismaillitv.radyotelekom.com.tr:3202/stream/play.m3u8
+http://109.200.130.122:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8?token=T0AKUktfQQsTWAZRBlIHCVMKAVFbBglcUQYBD1VaUw8GAVtVXVVSCFdDG0RGR0NVAFVpXQYUClEKDxoVEUsGRGsLBhECFVcBCVUVShdHWF0EGgwEThRADFYUDBVSC1IGFk5AVkBDBkNfAFs5UVZHWQJdFA4MQ1wJHhRZWTtcBltVDAYRAhVTEx1DXhVFEQteFFRaGEBUWRFAV0JSRgJBBAJSUREUFQBeRA9DFEwRCxIgYhQYQFNIEVdYRV4LVkEMFg9RRgAVTxNYEmgUUEBFQgRZW1EQFApHAhQaFQlZG2lXDQxdXVQXWF4PREQPEQESTRpbWwxfRApAaUZeABpZFAZbVAEaSg==
