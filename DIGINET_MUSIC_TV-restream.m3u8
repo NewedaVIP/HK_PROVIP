@@ -2,6 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://145.239.37.125:20458/foramuzik/foramuzik/chunklist_w1005375871.m3u8
+http://145.239.37.125:20458/foramuzik/foramuzik/chunklist.m3u8
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/chunklist_w1668601078.m3u8
 https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
