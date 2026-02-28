@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
+http://82.22.174.149/iptv_proxy/stream.php?stream=2195%2Findex.m3u8
 http://bstelevision.com/proxy.php?url=https%3A%2F%2Fst2.mediabay.tv%2FIctimaiTV%2Ftracks-v2a1%2Fmono.m3u8%3F_t%3D1772293877%26token%3D6c087d5f6f6233937bef05e1741c52144a6cc950-9389ef88df6ecba8db0a9a6de185d336-1772304377-1772293577
 http://109.205.166.68/server124/ictimai_tv/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 https://cors-proxy.cooks.fyi/http://trn03.tulix.tv/gt-ictimai/tracks-v1a1/mono.m3u8
