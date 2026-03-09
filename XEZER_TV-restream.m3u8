@@ -3,5 +3,5 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.0,
-http://185.129.1.242:80/xezertv/mpegts
+https://185.129.1.242:80/xezertv/mpegts
 #EXT-X-ENDLIST
