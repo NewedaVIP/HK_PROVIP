@@ -2,8 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
-https://babassksdjwoswwieidisiwdjjdwksjjxxh.indexphp.workers.dev/live/1375.m3u8
-http://82.22.174.149/iptv_proxy/stream.php?stream=31926%2Findex.m3u8
+http://82.22.174.149/iptv_pro/stream.php?stream=31926%2Findex.m3u8
 https://andro.5172948.xyz/checklist/androstreamlivebiraz1.m3u8
 http://82.22.174.149/iptv_proxy/stream.php?stream=31926%2Findex.m3u8
 http://87.246.54.249:8080/ArenaSport4/tracks-v1a1/mono.m3u8
