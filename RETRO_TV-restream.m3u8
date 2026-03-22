@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
+http://51.210.110.78/11452/tracks-v1a1/mono.m3u8?token=FB9C2220DC64
 https://a8.radyotelekom.com.tr/p/3706/hybrid/play.m3u8
 http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/2018/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/mega022/chunks.m3u8
